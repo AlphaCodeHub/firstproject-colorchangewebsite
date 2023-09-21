@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #fff; /* Default background color */
+}
+
+.color-options {
+    margin-top: 20px;
+}
+
+button.color-button1{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    position:relative;
+    background-color: red;
+    color: #fff;
+    
+}
+
+button.color-button2{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    position:relative;
+    background-color: green;
+    color: #fff;
+    
+}
+
+button.color-button3{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    position:relative;
+    background-color: blue;
+    color: #fff;
+}
+
+
+button.color-button4{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    position:relative;
+    background-color: rgb(223, 12, 47);
+    color: #fff;
+}
+
+button.color-button6{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    position:relative;
+    background-color: yellow;
+    color: #000;
+}
+
+
+button.color-button5{
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    top: 250px;
+    position:relative;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+.content {
+    padding: 20px;
+    transition: background-color 0.5s; /* Smooth background color transition */
+}
